@@ -83,11 +83,8 @@ const Navigation = () => {
           </a>
           <a
             href="https://blog.meldzee.com/"
-            className="hover:text-blue-500 ml-auto"
-            onClick={(e) => {
-              e.preventDefault();
-              scrollToSection("blog");
-            }}
+            className="hover:text-blue-500 ml-auto" 
+            target="_blank" 
           >
             Blog
           </a>
@@ -147,11 +144,8 @@ const Navigation = () => {
           </a>
           <a
             href="https://blog.meldzee.com/"
-            className="py-2"
-            onClick={(e) => {
-              e.preventDefault();
-              scrollToSection("blog");
-            }}
+            className="py-2" 
+            target="_blank" 
           >
             Blog
           </a>

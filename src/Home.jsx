@@ -15,7 +15,7 @@ const Home = () => {
           <a href="#projects" className="border-2 w-28 border-gray-700 text-center text-gray-700 font-bold px-4 py-2 rounded shadow hover:bg-gray-200">
             Projects
           </a>
-          <a href="https://blog.meldzee.com/" className="border-2 w-28 border-gray-500 text-center text-gray-500 font-bold px-4 py-2 rounded shadow hover:bg-gray-200">
+          <a href="https://blog.meldzee.com/" target="_blank"  className="border-2 w-28 border-gray-500 text-center text-gray-500 font-bold px-4 py-2 rounded shadow hover:bg-gray-200">
             Blog
           </a>
         </div>
