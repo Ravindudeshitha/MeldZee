@@ -82,7 +82,7 @@ const Navigation = () => {
             Contact
           </a>
           <a
-            href="#blog"
+            href="https://blog.meldzee.com/"
             className="hover:text-blue-500 ml-auto"
             onClick={(e) => {
               e.preventDefault();
@@ -146,7 +146,7 @@ const Navigation = () => {
             Contact
           </a>
           <a
-            href="#blog"
+            href="https://blog.meldzee.com/"
             className="py-2"
             onClick={(e) => {
               e.preventDefault();

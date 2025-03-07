@@ -15,6 +15,10 @@ function App() {
           <Route path="/me-downloader" element={<MeDownloader />} />
           <Route path="/f2f-annotator" element={<F2DAnnotator />} />
         </Routes>
+
+        <div className="w-full h-[30vh] sm:h-[20vh] md:h-[40vh] lg:h-[40ch]">
+
+        </div>
         <Footer /> {/* Add Footer here */}
       </div>
     </Router>
