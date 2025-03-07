@@ -16,7 +16,7 @@ const MeDownloader = () => {
             <div className="container mx-auto text-center">
                 <h1 className="text-5xl font-bold mb-6">Download ME Downloader</h1>
                 <p className="text-lg mb-8">Fast and simple tool to download files and YouTube videos with ease!</p>
-                <a href="/MEDownloader_WINDOWS_1.1_setup.exe" >
+                <a href="https://drive.google.com/uc?export=download&id=1ZjHq7gq4LBgX333slDWLjY48zAgTAYOm" >
                     <button className="bg-blue-500 text-white px-8 py-3 rounded-full text-xl hover:bg-blue-600 transition duration-300">
                         Download Now
                     </button>
