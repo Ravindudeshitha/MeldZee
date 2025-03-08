@@ -69,7 +69,7 @@ const MainPage = () => {
         <About />
       </section>
 
-      <section id="projects" className="h-screen flex items-center justify-center">
+      <section id="projects" className="mt-60 mb-32 sm:mt-20 sm:mb-20 h-screen flex items-center justify-center">
         <Projects />
       </section>
 
