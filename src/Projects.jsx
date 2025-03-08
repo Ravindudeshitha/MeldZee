@@ -6,8 +6,8 @@ const Projects = () => {
         <div className="w-full md:w-4/5 lg:w-3/5 text-left space-y-8">
   
           {/* Title */}
-          <h2 className="text-5xl font-extrabold mb-6 text-left text-gray-500 mb-12 ">Work & Projects</h2>
-          <p className="text-lg font-light mb-8 text-center">
+          <h2 className="text-4xl sm:text-6xl  font-extrabold mb-6 text-left text-gray-500 mb-12 ">Work & Projects</h2>
+          <p className="text-sm sm:text-lg font-light mb-8 text-center">
             Below are some of the projects we've worked on. From downloading software to annotating data, these projects are designed to make your life easier. Explore the tools and feel free to explore more about each one.
           </p>
   
@@ -22,7 +22,7 @@ const Projects = () => {
             {/* F2F Annotator */}
             <div className="w-full md:w-1/2 lg:w-1/3 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
               <h3 className="text-2xl font-semibold mb-4 text-center">F2F Annotator</h3>
-              <p className="text-lg font-light mb-4">
+              <p className="text-sm sm:text-lg font-light mb-4">
                 F2F Annotator is a powerful tool designed for image and data annotation. Perfect for data preprocessing, it helps users annotate files quickly and efficiently for machine learning and data analysis tasks.
               </p>
               <div className="text-center">
@@ -36,7 +36,7 @@ const Projects = () => {
             {/* ME Downloader */}
             <div className="w-full md:w-1/2 lg:w-1/3 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
               <h3 className="text-2xl font-semibold mb-4 text-center">ME Downloader</h3>
-              <p className="text-lg font-light mb-4">
+              <p className="text-sm sm:text-lg font-light mb-4">
                 ME Downloader is an efficient software for downloading media and files from various sources. It is designed to save time and make your downloading experience seamless and quick.
               </p>
               <div className="text-center">
@@ -59,7 +59,7 @@ const Projects = () => {
   
             <div className="w-full md:w-3/5 lg:w-2/5 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300 mx-auto">
               <h3 className="text-2xl font-semibold mb-4 text-center">Elegant Smooth Slider (UI Package)</h3>
-              <p className="text-lg font-light mb-4">
+              <p className="text-sm sm:text-lg font-light mb-4">
                 The Elegant Smooth Slider is a UI package that provides a highly customizable and smooth sliding carousel. Perfect for displaying images, content, or anything that requires smooth transitions and intuitive controls.
               </p>
               <div className="text-center">
