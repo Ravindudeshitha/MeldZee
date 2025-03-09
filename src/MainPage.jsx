@@ -58,6 +58,14 @@ const MainPage = () => {
 //     };
 //   }, []);
 
+  useEffect(() => {
+    // Scroll to the "projects" section when the page loads
+    const projectsSection = document.getElementById("projects");
+    if (projectsSection) {
+      projectsSection.scrollIntoView({ behavior: "smooth" });
+    }
+  }, []);
+
   return (
     <div>
         

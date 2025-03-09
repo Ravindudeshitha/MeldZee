@@ -20,7 +20,7 @@ const Projects = () => {
             </h3> */}
             
             {/* F2F Annotator */}
-            <div className="w-full md:w-1/2 lg:w-1/3 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <div className="w-full md:w-1/2 lg:w-3/7 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
               <h3 className="text-2xl font-semibold mb-4 text-center">F2F Annotator</h3>
               <p className="text-sm sm:text-lg font-light mb-4">
                 F2F Annotator is a powerful tool designed for image and data annotation. Perfect for data preprocessing, it helps users annotate files quickly and efficiently for machine learning and data analysis tasks.
@@ -34,7 +34,7 @@ const Projects = () => {
             </div>
 
             {/* ME Downloader */}
-            <div className="w-full md:w-1/2 lg:w-1/3 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <div className="w-full md:w-1/2 lg:w-3/7 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
               <h3 className="text-2xl font-semibold mb-4 text-center">ME Downloader</h3>
               <p className="text-sm sm:text-lg font-light mb-4">
                 ME Downloader is an efficient software for downloading media and files from various sources. It is designed to save time and make your downloading experience seamless and quick.
@@ -57,7 +57,7 @@ const Projects = () => {
               NPM Package
             </h3> */}
   
-            <div className="w-full md:w-3/5 lg:w-2/5 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300 mx-auto">
+            <div className="w-full md:w-3/5 lg:w-5/9 border border-gray-300 rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300 mx-auto">
               <h3 className="text-2xl font-semibold mb-4 text-center">Elegant Smooth Slider (UI Package)</h3>
               <p className="text-sm sm:text-lg font-light mb-4">
                 The Elegant Smooth Slider is a UI package that provides a highly customizable and smooth sliding carousel. Perfect for displaying images, content, or anything that requires smooth transitions and intuitive controls.
